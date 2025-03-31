@@ -1,2 +1,3 @@
 .movie
-Movie_Recommnder_System_Project/similarity.pkl
+movie_dict.pkl
+similarity.pkl
