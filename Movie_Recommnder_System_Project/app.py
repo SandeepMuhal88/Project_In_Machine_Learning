@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
+import numpy as np
 
 
 movies_dict=pickle.load(open('movie_dict.pkl','rb'))
