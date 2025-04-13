@@ -1,6 +1,8 @@
 .devcontainer
 .vscode
+.vitualvenv
 .sms
 movie_dict.pkl
 similarity.pkl
+
 *.pyc
