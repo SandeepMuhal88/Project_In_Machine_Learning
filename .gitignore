@@ -1,2 +1,6 @@
 .devcontainer
 .vscode
+.sms
+movie_dict.pkl
+similarity.pkl
+*.pyc
